@@ -15,3 +15,16 @@ This is a simple project to implement Artificial Neural Network using TensorFlow
 7. picke the model (package it)
 8. Streamlit to create web app 
 9. deploy it on stramlit cloud 
+
+### Note:  trainable parameter (# of Input neuron  * # of Hidden(out) neuron + # of Hidden(out) neuron (bias))
+
+
+## Tensorflow Workfloe
+- Sequential mode (ANN)
+- Dense (class to implenet hidden layer)
+- Activation func (sigmoid/softmax/tansh/relu/leaky relu)
+- Optimizer (Back propogation(update weight))
+- loss func 
+- metric (accuracy,precision...)
+- Tensorboard .. to store Training info inside log files and display it 
+  
