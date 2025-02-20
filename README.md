@@ -28,3 +28,8 @@ This is a simple project to implement Artificial Neural Network using TensorFlow
 - metric (accuracy,precision...)
 - Tensorboard .. to store Training info inside log files and display it 
   
+
+https://ann-tensorflow-classification-ahmadamireh.streamlit.app/
+
+
+'conda install -c conda-forge cudatoolkit=11.8 cudnn=8.6.0'
